@@ -2,7 +2,7 @@
 
 - Learn base of angular and consume an API
 - Initialize in word of TypeScript
-- This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.8.
+- This project was created with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
 
